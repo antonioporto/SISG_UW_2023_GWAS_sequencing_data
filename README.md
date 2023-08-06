@@ -20,8 +20,8 @@
 | Lecture 4   | Power, Sample Size & Design Considerations  |      [Code](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/SISGM15_prac4Solution.Rmd)    |
 | Lecture 5   | Downstream analyses: Conditional Analyses, Colocalization, Fine-mapping, Gene-based & Pathways Analysis  |      [Code](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/SISGM15_prac5Solution.Rmd)    |
 | Lecture 6   | Downstream analyses: Polygenic Risk Scores  |      [Code](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/SISGM15_prac6Solution.Rmd)    |
-| Lecture 7   | Rare Variant Analysis: Collapsing Tests, Kernel (Variance Component) Tests and Omnibus Tests  |      [Code]([http://www.saopaulofc.net/](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/Session07_practical_Key.Rmd))    |
-| Lecture 8   | Emerging issues showcasing ongoing research  |      [Code]([http://www.saopaulofc.net/](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/Session08_practical_Key.Rmd))    |
+| Lecture 7   | Rare Variant Analysis: Collapsing Tests, Kernel (Variance Component) Tests and Omnibus Tests  |      [Code](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/Session07_practical_Key.Rmd)    |
+| Lecture 8   | Emerging issues showcasing ongoing research  |      [Code](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/Session08_practical_Key.Rmd)    |
 | Lecture 9   | Beyond traditional GWAS: Variance QTL, Interaction Testing, GWAX, Time-to-event, Multi-trait analysis  |      [Code](https://github.com/antonioporto/SISG_UW_2023_GWAS_sequencing_data/blob/main/SISGM15_prac9Solution.Rmd)    |
 
 
